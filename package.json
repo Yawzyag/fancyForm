@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Yawzyag/fancyForm#readme",
   "dependencies": {
+    "lodash": "^4.17.11",
     "node-sass": "^4.9.3"
   }
 }
